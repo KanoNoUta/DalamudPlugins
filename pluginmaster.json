@@ -17,6 +17,7 @@
       "OCH"
     ],
     "InternalName": "BOCCHI",
+    "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
     "Changelog": "3.2.0：适配国服 7.55 新月岛北部；新增北岛魔路、FATE、CE、货币、辅助职业与调查记录数据；修复国服辅助经验和宝箱计数；补齐切岛状态清理。",
     "AssemblyVersion": "3.2.0.0",
     "ApplicableVersion": "any",
@@ -26,6 +27,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785263479"
+    "LastUpdate": "1785264134"
   }
 ]
