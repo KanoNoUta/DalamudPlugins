@@ -27,7 +27,39 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785266422"
+    "LastUpdate": "1785266570"
+  },
+  {
+    "Author": "The Combat Reborn Team / KanoNoUta（国服适配）",
+    "Name": "BossMod Reborn CN",
+    "Punchline": "国服副本与新月岛战斗机制提示",
+    "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
+    "Tags": [
+      "combat",
+      "boss",
+      "dodge",
+      "mechanics",
+      "pve",
+      "raids",
+      "trials"
+    ],
+    "InternalName": "BossModReborn",
+    "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
+    "Changelog": "7.5.5.1：适配国服 7.55 新月岛北部；新增神木巨人 CE，完善 Tiny Terror，并修复电网、圆盘与球体机制的去重和超时清理。",
+    "AssemblyVersion": "7.5.5.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+    ],
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1785266570"
   },
   {
     "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -52,6 +84,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785266422"
+    "LastUpdate": "1785264310"
   }
 ]

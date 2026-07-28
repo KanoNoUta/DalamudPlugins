@@ -14,5 +14,6 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 - BOCCHI `3.2.1.0`：国服 7.55 新月岛南部/北部辅助，已修复 FATE 消失崩溃。
 - Lifestream `2.5.4.14`：国服传送与移动辅助。
+- BossMod Reborn CN `7.5.5.1`：国服 7.55 新月岛北部 Boss 机制提示。
 
 插件包、清单与索引由仓库内脚本校验和生成。使用前请留意各插件清单中的版本与更新说明。
