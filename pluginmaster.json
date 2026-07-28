@@ -18,8 +18,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.2.0：适配国服 7.55 新月岛北部；新增北岛魔路、FATE、CE、货币、辅助职业与调查记录数据；修复国服辅助经验和宝箱计数；补齐切岛状态清理。",
-    "AssemblyVersion": "3.2.0.0",
+    "Changelog": "3.2.1：修复 FATE 消失时读取失效游戏对象导致的 AccessViolationException 崩溃；FATE 名称、位置、半径与进度现在使用安全快照。",
+    "AssemblyVersion": "3.2.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -27,7 +27,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785264475"
+    "LastUpdate": "1785266312"
   },
   {
     "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -52,6 +52,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785264475"
+    "LastUpdate": "1785264519"
   }
 ]

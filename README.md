@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 当前插件
 
-- BOCCHI `3.2.0.0`：国服 7.55 新月岛南部/北部辅助。
+- BOCCHI `3.2.1.0`：国服 7.55 新月岛南部/北部辅助，已修复 FATE 消失崩溃。
+- Lifestream `2.5.4.14`：国服传送与移动辅助。
 
 插件包、清单与索引由仓库内脚本校验和生成。使用前请留意各插件清单中的版本与更新说明。
