@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.4：精修国服 7.55 新月岛北岛全部 CE；修正惨白魔人及持续边界、电网范围、连续斩方向、团伤、凝视与击退预警，并强化高倍速回放去重和超时清理。",
-    "AssemblyVersion": "7.5.5.4",
+    "Changelog": "7.5.5.5：新增北岛 CE 魔亡灵法师；实测启用并精修新月女王；补全魔许德拉持续毒池并适配高倍速回放；扩充惨白魔人电网命中证据。",
+    "AssemblyVersion": "7.5.5.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785329960"
+    "LastUpdate": "1785335359"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
