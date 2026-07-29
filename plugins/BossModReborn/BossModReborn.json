@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.3",
+  "AssemblyVersion": "7.5.5.4",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.3：适配国服 7.55 新月岛北岛",
+  "Changelog": "7.5.5.4：精修国服 7.55 新月岛北岛全部 CE；修正惨白魔人及持续边界、电网范围、连续斩方向、团伤、凝视与击退预警，并强化高倍速回放去重和超时清理。",
   "AcceptsFeedback": true
 }
