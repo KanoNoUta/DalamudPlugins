@@ -27,7 +27,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785266637"
+    "LastUpdate": "1785304441"
   },
   {
     "Author": "The Combat Reborn Team / KanoNoUta（国服适配）",
@@ -59,7 +59,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785266637"
+    "LastUpdate": "1785304441"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
@@ -86,6 +86,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785304340"
+    "LastUpdate": "1785304441"
   }
 ]
