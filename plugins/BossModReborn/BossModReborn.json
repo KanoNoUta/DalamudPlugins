@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.5",
+  "AssemblyVersion": "7.5.5.6",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.5：新增北岛 CE 魔亡灵法师；实测启用并精修新月女王；补全魔许德拉持续毒池并适配高倍速回放；扩充惨白魔人电网命中证据。",
+  "Changelog": "7.5.5.6：新增北岛 CE 变形法师，补全 FATE 统领奇美拉与遗迹冰狼；重构惨白魔人死亡轮盘电网，支持极性换位与动态旋转。",
   "AcceptsFeedback": true
 }
