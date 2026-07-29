@@ -17,7 +17,7 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.9：修复 Lifestream 部分 IPC 因加载顺序未注册时导致非法模式完全停止；保留 Lifestream 传送，并改用已知水晶坐标和游戏对象判断到达状态。",
+    "Changelog": "3.3.9：兼容 Lifestream 部分 IPC 未注册；修复移动中反复重算路线、先寻路后上坐骑、重复上坐骑及结束后重选旧 FATE 导致的走停和原地反复下坐骑。",
     "AssemblyVersion": "3.3.9.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785350199"
+    "LastUpdate": "1785350702"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
