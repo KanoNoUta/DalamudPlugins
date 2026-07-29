@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.0：完整适配国服 7.55 新月岛北部；新增北岛 FATE/CE、调查记录、8 个辅助职业与双塔支持；完善宝箱/胡萝卜运行时路线、超时重试和采集缓存；修复 CE 原生对象生命周期、塔轮次重置及取消事件误计完成等问题。",
-    "AssemblyVersion": "3.3.0.0",
+    "Changelog": "3.3.1：修复北岛 FATE 2075 从魔路点出发时穿河失败的问题；改用经陆地校验的 92 点南侧绕行路线，并直接跟随路线避免 vnavmesh 重新选择水面捷径。",
+    "AssemblyVersion": "3.3.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785306081"
+    "LastUpdate": "1785332500"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
