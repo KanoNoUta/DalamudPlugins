@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 当前插件
 
-- BOCCHI `3.3.3.0`：国服 7.55 新月岛南部/北部辅助，修复 CE 63“拟态使魔——变形法师”的魔路点选择。
+- BOCCHI `3.3.4.0`：国服 7.55 新月岛南部/北部辅助，修复 FATE 2075“诅咒宝珠——邪瞳”的魔路点选择。
 - Lifestream `2.5.4.14`：国服传送与移动辅助。
 - BossMod Reborn CN `7.5.5.1`：国服 7.55 新月岛北部 Boss 机制提示。
 
