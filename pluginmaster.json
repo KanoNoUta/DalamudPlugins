@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.3：修复北岛 CE 63“拟态使魔——变形法师”的魔路点选择，固定传送至右上方妖火湖北岸，不再误传至中间妖火渔村。",
-    "AssemblyVersion": "3.3.3.0",
+    "Changelog": "3.3.4：修复北岛 FATE 2075“诅咒宝珠——邪瞳”的魔路点选择，固定传送至右上方妖火湖北岸，不再误传至中间妖火渔村；保留南侧绕行路线作为中间区域兜底。",
+    "AssemblyVersion": "3.3.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785335072"
+    "LastUpdate": "1785336508"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
