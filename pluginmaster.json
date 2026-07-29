@@ -62,16 +62,18 @@
     "LastUpdate": "1785266637"
   },
   {
-    "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
+    "Author": "KanoNoUta（国服 7.55 适配）",
     "Name": "Lifestream",
-    "Punchline": "一个加速以太网旅行和跨服的插件。",
-    "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
+    "Punchline": "国服 7.55 适配：加速以太网旅行、跨服与新月岛北部传送。",
+    "Description": "- 国服 7.55 适配\n- 一键传送到任何服务器或以太网目的地\n- 支持新月岛北部 6 个魔路点传送",
     "Tags": [
       "传送",
       "跨服",
       "以太之光",
       "新月岛",
-      "北岛"
+      "北岛",
+      "国服",
+      "7.55"
     ],
     "InternalName": "Lifestream",
     "RepoUrl": "https://github.com/KanoNoUta/Lifestream",
@@ -79,11 +81,11 @@
     "AssemblyVersion": "2.5.4.14",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+    "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/Lifestream/main/Lifestream/images/icon.png",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785266637"
+    "LastUpdate": "1785304340"
   }
 ]
