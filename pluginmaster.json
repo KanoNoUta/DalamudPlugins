@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.6：接入 PromeRotation 自动循环，赶路/暂停/换图时停止、FATE/CE 与刷怪战斗时启动；合并 PR #1 的智能路线与自动换岛功能，并串行化 vnavmesh 候选算路；修复未进入事件时误判结束及目标消失后反复拆链导致的走走停停。",
-    "AssemblyVersion": "3.3.6.0",
+    "Changelog": "3.3.7：紧急修复 3.3.6 自动模式会停在智能路线预计算阶段、角色完全不移动的问题；实时赶事件恢复为立即按距离选路并出发，复杂候选预计算不再阻塞自动模式。",
+    "AssemblyVersion": "3.3.7.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785345687"
+    "LastUpdate": "1785346996"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
