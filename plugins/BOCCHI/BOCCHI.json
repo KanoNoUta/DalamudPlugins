@@ -1,15 +1,15 @@
 ﻿{
-  "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
+  "Author": "KanoNoUta（国服 7.55 适配维护）",
   "Name": "Better Occult Crescent & Chest Helper Interface",
   "InternalName": "BOCCHI",
-  "AssemblyVersion": "3.2.1.0",
-  "Punchline": "BOCCHI 可以帮助您更加顺利地体验新月岛南部与北部",
+  "AssemblyVersion": "3.3.0.0",
+  "Punchline": "国服 7.55 适配：新月岛南部与北部综合辅助",
   "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
   "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-  "Changelog": "3.2.1：修复 FATE 消失时读取失效游戏对象导致的 AccessViolationException 崩溃；FATE 名称、位置、半径与进度现在使用安全快照。",
+  "Changelog": "3.3.0：完整适配国服 7.55 新月岛北部；新增北岛 FATE/CE、调查记录、8 个辅助职业与双塔支持；完善宝箱/胡萝卜运行时路线、超时重试和采集缓存；修复 CE 原生对象生命周期、塔轮次重置及取消事件误计完成等问题。",
   "AcceptsFeedback": true,
   "Tags": [
     "BOCCHI",
@@ -19,7 +19,6 @@
     "Illegal",
     "Critical Encounter",
     "Fate",
-    "Faye",
     "BOCCHER",
     "OCH"
   ]

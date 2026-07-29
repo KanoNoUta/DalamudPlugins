@@ -1,5 +1,6 @@
 import json
 import os
+import subprocess
 from pathlib import Path
 from zipfile import ZipFile
 
@@ -61,6 +62,34 @@ def download_url(plugin_name: str, subfolder: str | None = None) -> str:
     )
 
 
+def last_update(zip_path: Path) -> str:
+    """Return a stable per-plugin update time instead of checkout mtime."""
+    repository_path = zip_path.as_posix()
+    try:
+        dirty = subprocess.run(
+            ["git", "status", "--porcelain", "--", repository_path],
+            check=True,
+            capture_output=True,
+            text=True,
+        ).stdout.strip()
+        if not dirty:
+            committed = subprocess.run(
+                ["git", "log", "-1", "--format=%ct", "--", repository_path],
+                check=True,
+                capture_output=True,
+                text=True,
+            ).stdout.strip()
+            if committed.isdigit():
+                return committed
+    except (OSError, subprocess.CalledProcessError):
+        pass
+
+    # New or locally replaced packages have no matching commit yet. Their file
+    # time is stable for this generation; CI resolves it to the commit time
+    # after the package commit is pushed.
+    return str(int(zip_path.stat().st_mtime))
+
+
 def build_entry(zip_path: Path, plugin_name: str, subfolder: str | None = None) -> dict:
     manifest = trim_manifest(load_manifest(zip_path, plugin_name))
     if subfolder:
@@ -70,7 +99,7 @@ def build_entry(zip_path: Path, plugin_name: str, subfolder: str | None = None) 
     manifest["DownloadLinkInstall"] = url
     manifest["DownloadLinkUpdate"] = url
     manifest["DownloadCount"] = 0
-    manifest["LastUpdate"] = str(int(zip_path.stat().st_mtime))
+    manifest["LastUpdate"] = last_update(zip_path)
     return manifest
 
 
