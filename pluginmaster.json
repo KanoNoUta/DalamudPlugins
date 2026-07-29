@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.8：修复 PromeRotation 失败时阻塞 FATE/CE 自动移动；到场后必定下坐骑；修复 BossMod AI 在暂停、事件结束/失效或换图后残留开启，并在非战斗状态启动非法模式时先关闭 AI。",
-    "AssemblyVersion": "3.3.8.0",
+    "Changelog": "3.3.9：修复 Lifestream 部分 IPC 因加载顺序未注册时导致非法模式完全停止；保留 Lifestream 传送，并改用已知水晶坐标和游戏对象判断到达状态。",
+    "AssemblyVersion": "3.3.9.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785349006"
+    "LastUpdate": "1785350170"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
