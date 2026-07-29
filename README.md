@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 当前插件
 
-- BOCCHI `3.3.1.0`：国服 7.55 新月岛南部/北部辅助，修复北岛 FATE 2075 的跨河路线。
+- BOCCHI `3.3.2.0`：国服 7.55 新月岛南部/北部辅助，完善北岛 FATE 2075 跨河路线的长距离执行保护。
 - Lifestream `2.5.4.14`：国服传送与移动辅助。
 - BossMod Reborn CN `7.5.5.1`：国服 7.55 新月岛北部 Boss 机制提示。
 
