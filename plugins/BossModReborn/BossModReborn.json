@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.7",
+  "AssemblyVersion": "7.5.5.8",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.7：新增古术魔典、卡洛菲斯提莉二重身、赤龙与新月阿剌克涅 CE；精修惨白魔人电网、阿尔戈尔旋转拉拽及北岛 FATE，并合并官方最新绘制修复。",
+  "Changelog": "7.5.5.8：修正雪石膏之剑与宝石兽半场方向、卡洛菲斯提莉左右刀、魔亡灵法师直条和古术魔典场地；补强阿尔戈尔旋转吸引 AI 与诱拐魔冰花提示。",
   "AcceptsFeedback": true
 }
