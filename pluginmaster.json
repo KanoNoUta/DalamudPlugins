@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.6：新增北岛 CE 变形法师，补全 FATE 统领奇美拉与遗迹冰狼；重构惨白魔人死亡轮盘电网，支持极性换位与动态旋转。",
-    "AssemblyVersion": "7.5.5.6",
+    "Changelog": "7.5.5.7：新增古术魔典、卡洛菲斯提莉二重身、赤龙与新月阿剌克涅 CE；精修惨白魔人电网、阿尔戈尔旋转拉拽及北岛 FATE，并合并官方最新绘制修复。",
+    "AssemblyVersion": "7.5.5.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785344730"
+    "LastUpdate": "1785388110"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
