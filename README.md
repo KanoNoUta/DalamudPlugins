@@ -14,6 +14,6 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 - BOCCHI `3.3.10.0`：国服 7.55 新月岛南部/北部辅助，完善北岛寻宝、胡萝卜、安全水晶路线及 FATE/CE 连续移动。
 - Lifestream `2.5.4.14`：国服传送与移动辅助。
-- BossMod Reborn CN `7.5.5.1`：国服 7.55 新月岛北部 Boss 机制提示。
+- BossMod Reborn CN `7.5.5.7`：国服 7.55 新月岛北部 CE/FATE 机制提示，包含惨白魔人电网与古术魔典等精修。
 
 插件包、清单与索引由仓库内脚本校验和生成。使用前请留意各插件清单中的版本与更新说明。
