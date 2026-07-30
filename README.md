@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 当前插件
 
-- BOCCHI `3.3.8.0`：国服 7.55 新月岛南部/北部辅助，修复 FATE/CE 自动移动、到场下坐骑及 BossMod AI 生命周期。
+- BOCCHI `3.3.10.0`：国服 7.55 新月岛南部/北部辅助，完善北岛寻宝、胡萝卜、安全水晶路线及 FATE/CE 连续移动。
 - Lifestream `2.5.4.14`：国服传送与移动辅助。
 - BossMod Reborn CN `7.5.5.1`：国服 7.55 新月岛北部 Boss 机制提示。
 
