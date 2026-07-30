@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.10：修复 FATE/CE SimpleMove 启动与到场误判、到点不下坐骑、Ocelot 空队列卡住自动器；完善北岛水晶传送、强制回城恢复、精准寻宝和有限重试交互。",
-    "AssemblyVersion": "3.3.10.0",
+    "Changelog": "3.3.11：合并 PR #2，修复活动结束后仍提交导航、CE 报名关闭后重复接近、最终落点重复提交，以及水晶传送交互范围与落点校验。",
+    "AssemblyVersion": "3.3.11.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785387588"
+    "LastUpdate": "1785395349"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
