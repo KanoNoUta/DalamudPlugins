@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.11：校准神木巨人移动刀片与诱拐魔飓风危险圈颜色；补统领奇美拉寒冰吐息三连与冰球寒冰咆哮；开启北岛弥诺陶洛/忍耐基路伯/邪瞳/水马 FATE 绘制；魔许德拉绿毒圈动态扩圈；变形法师残留圈清理；负隅宝石兽与诱拐魔击退提示修正；禁书墨迹改为踩塔。",
-    "AssemblyVersion": "7.5.5.11",
+    "Changelog": "7.5.5.12：开启妖艳魔花珊迪/呼风狮鹫/伊阿姆柏/半灵美杜莎 FATE 绘制；惨白魔人补电网与首轮轮盘预览；阿尔戈尔长条地火对称化与场地校准；负隅宝石兽方形电网与连续击退修正；魔亡灵法师改方形电网；变形法师电网/连续冲刺/扩散圈修正；禁书知见规则修正、翻页预警、墨阵半径与踩塔。",
+    "AssemblyVersion": "7.5.5.12",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785510446"
+    "LastUpdate": "1785517529"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
