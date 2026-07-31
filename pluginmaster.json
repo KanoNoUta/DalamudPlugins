@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.13：合并传送落点与导航稳定停止改进；修复北岛挖宝寻路、FATE 后回营地、重复补 Buff 和紧急停止残留，并校验 vnavmesh 0.7.6.0。",
-    "AssemblyVersion": "3.3.13.0",
+    "Changelog": "3.3.14：重构主界面与设置并分离南北岛事件、怪物配置；FATE 结束强制回营地，PromeRotation 到场自动选怪并开启主动攻击；挖宝保持坐骑直接开箱。",
+    "AssemblyVersion": "3.3.14.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785425026"
+    "LastUpdate": "1785472641"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
