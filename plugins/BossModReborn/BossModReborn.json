@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.10",
+  "AssemblyVersion": "7.5.5.11",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.10：校准惨白魔人死亡轮盘安全区与时序、新月女王九连环提前量；修复阿尔戈尔和诱拐魔电网贴边、诱拐魔十字/月环/移动旋风、魔许德拉绿毒圈与赤龙旋转毒圈；补强微小恐怖和宝石兽 replay 时序与事件去重。",
+  "Changelog": "7.5.5.11：校准神木巨人移动刀片与诱拐魔飓风危险圈颜色；补统领奇美拉寒冰吐息三连与冰球寒冰咆哮；开启北岛弥诺陶洛/忍耐基路伯/邪瞳/水马 FATE 绘制；魔许德拉绿毒圈动态扩圈；变形法师残留圈清理；负隅宝石兽与诱拐魔击退提示修正；禁书墨迹改为踩塔。",
   "AcceptsFeedback": true
 }
