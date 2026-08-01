@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.14：变形法师扩散绿毒改用实心圆预判避让，AI 全程停边缘口袋不再踩毒；宝石兽连续击退按侧推+径向叠加校正逃离方向；诱拐魔死亡墙加 17y 缓冲防 AI 躲冰花撞墙；赤龙结界期禁止攻击 boss 防反伤并优化 Necrohaze 避让；伊阿姆柏强制位移预朝向防踩钢铁。",
-    "AssemblyVersion": "7.5.5.14",
+    "Changelog": "7.5.5.16 回放校正：加强神木巨人危险区优先级、小小法师火水球时序、惨白魔人轮盘、负隅宝石兽连续击退与方形边界、诱拐魔击退、魔许德拉毒圈、亡灵法师电网、变形法师冲撞残留、赤龙结界、禁书知见/泼墨/十字/踩塔；优化新月女王、呼风狮鹫、伊阿姆柏和水马导航。",
+    "AssemblyVersion": "7.5.5.16",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785585076"
+    "LastUpdate": "1785603184"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",

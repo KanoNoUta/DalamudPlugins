@@ -14,6 +14,6 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 - BOCCHI `3.3.18.0`：作者 KanoNoUta、岚玉棠；新增主页精简模式、按玩家等级过滤普通怪避让，以及 `/ochth` 等宝箱猎人快捷指令。
 - Lifestream `2.5.4.15`：国服传送与移动辅助，新增以太网传送状态、失败原因和序列号 IPC。
-- BossMod Reborn CN `7.5.5.14`：国服 7.55 新月岛北部 CE/FATE 机制提示，变形法师扩散绿毒实心圆预判不再踩毒，宝石兽连续击退侧推+径向叠加校正，诱拐魔死亡墙加缓冲，赤龙结界期禁攻防反伤。
+- BossMod Reborn CN `7.5.5.16`：国服 7.55 新月岛北部 CE/FATE 机制提示，基于 164 份回放校正危险区、连续击退、边界、电网、轮盘、知见与强制位移导航。
 
 插件包、清单与索引由仓库内脚本校验和生成。使用前请留意各插件清单中的版本与更新说明。
