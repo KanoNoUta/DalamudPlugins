@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.17 北岛精修：负隅宝石兽链式击退预站位、亡灵法师电网 AI 防贴边、变形法师绿毒实心圆盘、母蜘蛛电网可见+蛛网连线、邪瞳凝视恢复；7.5.5.16 回放校正：加强神木巨人危险区优先级、小小法师火水球时序、惨白魔人轮盘、负隅宝石兽连续击退与方形边界、诱拐魔击退、魔许德拉毒圈、亡灵法师电网、变形法师冲撞残留、赤龙结界、禁书知见/泼墨/十字/踩塔；优化新月女王、呼风狮鹫、伊阿姆柏和水马导航。",
-    "AssemblyVersion": "7.5.5.17",
+    "Changelog": "7.5.5.18 紧急校正：古术魔典九圈“3穿1”固定前两轮危险、第三轮唯一预站位，并修正墨圈15y、知见绝对等级、泼墨钢铁与丢书踩塔；同步校准惨白魔人/变形法师电网、变形法师扩散毒圈、卡洛菲斯提莉米字斩及四颚斧花场地范围。",
+    "AssemblyVersion": "7.5.5.18",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785648433"
+    "LastUpdate": "1785680816"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
