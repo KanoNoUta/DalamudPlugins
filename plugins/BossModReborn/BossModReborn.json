@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.16",
+  "AssemblyVersion": "7.5.5.17",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.16 回放校正：加强神木巨人危险区优先级、小小法师火水球时序、惨白魔人轮盘、负隅宝石兽连续击退与方形边界、诱拐魔击退、魔许德拉毒圈、亡灵法师电网、变形法师冲撞残留、赤龙结界、禁书知见/泼墨/十字/踩塔；优化新月女王、呼风狮鹫、伊阿姆柏和水马导航。",
+  "Changelog": "7.5.5.17 北岛精修：负隅宝石兽链式击退预站位、亡灵法师电网 AI 防贴边、变形法师绿毒实心圆盘、母蜘蛛电网可见+蛛网连线、邪瞳凝视恢复；7.5.5.16 回放校正：加强神木巨人危险区优先级、小小法师火水球时序、惨白魔人轮盘、负隅宝石兽连续击退与方形边界、诱拐魔击退、魔许德拉毒圈、亡灵法师电网、变形法师冲撞残留、赤龙结界、禁书知见/泼墨/十字/踩塔；优化新月女王、呼风狮鹫、伊阿姆柏和水马导航。",
   "AcceptsFeedback": true
 }
