@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.19 北征 ARR/解包数据精准修复：校正连续击退、轮盘与替身指令、多段吐息、冲锋路线、方向壁垒、毒液扩散和多类方形电网；补全四颚斧花等机制绘制、危险区清理、AI 生存走位及 FATE 固定场地导航。",
-    "AssemblyVersion": "7.5.5.19",
+    "Changelog": "7.5.5.20 恢复诅咒宝珠——邪瞳的 See No Evil 与 Sinister Sight 两种凝视背对机制及 AI 转向处理。",
+    "AssemblyVersion": "7.5.5.20",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785735911"
+    "LastUpdate": "1785739415"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",

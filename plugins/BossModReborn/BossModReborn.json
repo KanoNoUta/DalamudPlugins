@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.19",
+  "AssemblyVersion": "7.5.5.20",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.19 北征 ARR/解包数据精准修复：校正连续击退、轮盘与替身指令、多段吐息、冲锋路线、方向壁垒、毒液扩散和多类方形电网；补全四颚斧花等机制绘制、危险区清理、AI 生存走位及 FATE 固定场地导航。",
+  "Changelog": "7.5.5.20 恢复诅咒宝珠——邪瞳的 See No Evil 与 Sinister Sight 两种凝视背对机制及 AI 转向处理。",
   "AcceptsFeedback": true
 }
