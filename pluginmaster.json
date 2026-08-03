@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.18：新增主页精简模式，普通怪避让按玩家等级过滤；新增 /ochth、/bocchith 与 /bocchi th 宝箱猎人快捷指令，可直接启动或停止寻宝；作者信息新增 岚玉棠。",
-    "AssemblyVersion": "3.3.18.0",
+    "Changelog": "3.3.19：重构整体 UI 与自动模式启停交互；北岛寻宝接入编号路线、路线图、就近起点、水晶传送成本规划和实时宝箱定位；修复每小时金币初始值、暂停后残留移动、宝箱交互以及寻宝途中 FATE 结束抢占回城。",
+    "AssemblyVersion": "3.3.19.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785517297"
+    "LastUpdate": "1785741131"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",

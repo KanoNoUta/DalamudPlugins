@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 当前插件
 
-- BOCCHI `3.3.18.0`：作者 KanoNoUta、岚玉棠；新增主页精简模式、按玩家等级过滤普通怪避让，以及 `/ochth` 等宝箱猎人快捷指令。
+- BOCCHI `3.3.19.0`：重构整体 UI 与自动启停交互；新增北岛编号寻宝路线、路线图、就近起点和实时宝箱定位；修复金币时薪基线、暂停残留移动与寻宝途中 FATE 回城抢占。
 - Lifestream `2.5.4.15`：国服传送与移动辅助，新增以太网传送状态、失败原因和序列号 IPC。
 - BossMod Reborn CN `7.5.5.20`：国服 7.55 新月岛北部 CE/FATE 机制提示；恢复邪瞳 See No Evil 与 Sinister Sight 两种凝视背对机制和 AI 转向处理。
 
