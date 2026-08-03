@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.19：重构整体 UI 与自动模式启停交互；北岛寻宝接入编号路线、路线图、就近起点、水晶传送成本规划和实时宝箱定位；修复每小时金币初始值、暂停后残留移动、宝箱交互以及寻宝途中 FATE 结束抢占回城。",
-    "AssemblyVersion": "3.3.19.0",
+    "Changelog": "3.3.20：修复 CE 出发延迟未可靠执行；延迟改为建链时直接入队，保留小数秒精度并安全处理异常区间，同时记录每次实际等待时长。",
+    "AssemblyVersion": "3.3.20.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785769119"
+    "LastUpdate": "1785774131"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
