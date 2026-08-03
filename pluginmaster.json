@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.18 紧急校正：古术魔典九圈“3穿1”固定前两轮危险、第三轮唯一预站位，并修正墨圈15y、知见绝对等级、泼墨钢铁与丢书踩塔；同步校准惨白魔人/变形法师电网、变形法师扩散毒圈、卡洛菲斯提莉米字斩及四颚斧花场地范围。",
-    "AssemblyVersion": "7.5.5.18",
+    "Changelog": "7.5.5.19 北征 ARR/解包数据精准修复：校正连续击退、轮盘与替身指令、多段吐息、冲锋路线、方向壁垒、毒液扩散和多类方形电网；补全四颚斧花等机制绘制、危险区清理、AI 生存走位及 FATE 固定场地导航。",
+    "AssemblyVersion": "7.5.5.19",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785681421"
+    "LastUpdate": "1785735605"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
