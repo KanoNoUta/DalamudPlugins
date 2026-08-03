@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.20 恢复诅咒宝珠——邪瞳的 See No Evil 与 Sinister Sight 两种凝视背对机制及 AI 转向处理。",
-    "AssemblyVersion": "7.5.5.20",
+    "Changelog": "7.5.5.21 新月岛宝石兽/变形法师精修：宝石兽方向约定按 Triggernometry 权威语义修正并修复首次田墙批次选择；变形法师四连冲补画完整 4 段、炼狱吐息扇形修正、电网与毒圈绘制修复。",
+    "AssemblyVersion": "7.5.5.21",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785739629"
+    "LastUpdate": "1785783445"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",

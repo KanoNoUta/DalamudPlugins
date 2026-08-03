@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.20",
+  "AssemblyVersion": "7.5.5.21",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.20 恢复诅咒宝珠——邪瞳的 See No Evil 与 Sinister Sight 两种凝视背对机制及 AI 转向处理。",
+  "Changelog": "7.5.5.21 新月岛宝石兽/变形法师精修：宝石兽方向约定按 Triggernometry 权威语义修正并修复首次田墙批次选择；变形法师四连冲补画完整 4 段、炼狱吐息扇形修正、电网与毒圈绘制修复。",
   "AcceptsFeedback": true
 }
