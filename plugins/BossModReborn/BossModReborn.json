@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.21",
+  "AssemblyVersion": "7.5.5.22",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.21 新月岛宝石兽/变形法师精修：宝石兽方向约定按 Triggernometry 权威语义修正并修复首次田墙批次选择；变形法师四连冲补画完整 4 段、炼狱吐息扇形修正、电网与毒圈绘制修复。",
+  "Changelog": "7.5.5.22 新月岛电网与机制精修：惨白魔人死亡轮盘外层安全区修正（两缺口各 45°）与连线顺序修正；宝石兽两段击退安全区（半圆+矩形框）与田墙批次修正；阿尔戈尔旋转吸引 AI 引导+旋转安全扇形；诱拐魔电网按解包数据恢复 AI 限制；小小法师/新月阿剌克涅/魔亡灵法师电网绘制修复；变形法师毒圈残留与四连冲补画。",
   "AcceptsFeedback": true
 }
