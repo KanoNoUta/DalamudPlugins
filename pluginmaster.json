@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.24 新月岛 CE 精修：宝石兽连续击退 AI 引导到一次就位位置（两段击退间隔约 0.9s，不再走不到位被击退进电网）；阿尔戈尔电网半径修正 28→23.5（此前画大导致躲双地火时踩进电网）；变形法师四连冲补时间推进（第 4 段命中事件缺失时按时切换，不再漏画最后一段）。",
-    "AssemblyVersion": "7.5.5.24",
+    "Changelog": "7.5.5.25 新月岛 CE 精修：宝石兽击退 AI 引导固定走进安全半场（偏向半场深处、不贴中线，不再走到错误半场）；诱拐魔冰花改为从 emitter 实时绘制（修复部分波次 cast 事件缺失导致冰花不显示）。",
+    "AssemblyVersion": "7.5.5.25",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785860569"
+    "LastUpdate": "1785864256"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
