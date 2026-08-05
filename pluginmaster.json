@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.27 新月岛 CE/FATE 精修：神木巨人 AncientAero 对称并提前预警；小小法师连续咏唱钢铁+扇形引导到安全位；惨白魔人场边四连导弹全波禁区；雪石膏之剑 AI 主动打小怪；变形法师四连冲纯时间驱动；奇美拉小冰钢铁从冰球提前显示；新月女王脚下钢铁修正 50y。",
-    "AssemblyVersion": "7.5.5.27",
+    "Changelog": "7.5.5.28 禁书丢书塔补时间清除（cast 结束事件缺失导致塔残留）。",
+    "AssemblyVersion": "7.5.5.28",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785946476"
+    "LastUpdate": "1785950310"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
