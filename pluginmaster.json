@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.21：新增寻路卡住自动跳跃（可设置开关，默认开启）；寻路长时间无进展时自动下马并跳跃数次脱困，覆盖自动模式、寻宝、胡萝卜与刷怪导航。",
-    "AssemblyVersion": "3.3.21.0",
+    "Changelog": "3.3.22：修复北岛 FATE 寻路不传送到最近传送点的问题；为全部北岛 FATE 配置正确偏好传送点，并修正快速寻路对北岛复杂地形的直线距离低估，暴力牛魔、狼占狗窝等会优先传送到最近传送点。",
+    "AssemblyVersion": "3.3.22.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785861455"
+    "LastUpdate": "1785946448"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
