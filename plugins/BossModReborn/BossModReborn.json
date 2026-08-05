@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.26",
+  "AssemblyVersion": "7.5.5.27",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.26 新月岛 CE 精修：禁书知见等级扇区改为从书页位置发出朝中心（修复扇形画反）；魔力书写与雷击直条宽度及对称修正；丢书塔改为随机选塔踩；赤龙魔法障壁安全面 AI 引导绕侧攻击。",
+  "Changelog": "7.5.5.27 新月岛 CE/FATE 精修：神木巨人 AncientAero 对称并提前预警；小小法师连续咏唱钢铁+扇形引导到安全位；惨白魔人场边四连导弹全波禁区；雪石膏之剑 AI 主动打小怪；变形法师四连冲纯时间驱动；奇美拉小冰钢铁从冰球提前显示；新月女王脚下钢铁修正 50y。",
   "AcceptsFeedback": true
 }
