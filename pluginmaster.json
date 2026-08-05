@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.25 新月岛 CE 精修：宝石兽击退 AI 引导固定走进安全半场（偏向半场深处、不贴中线，不再走到错误半场）；诱拐魔冰花改为从 emitter 实时绘制（修复部分波次 cast 事件缺失导致冰花不显示）。",
-    "AssemblyVersion": "7.5.5.25",
+    "Changelog": "7.5.5.26 新月岛 CE 精修：禁书知见等级扇区改为从书页位置发出朝中心（修复扇形画反）；魔力书写与雷击直条宽度及对称修正；丢书塔改为随机选塔踩；赤龙魔法障壁安全面 AI 引导绕侧攻击。",
+    "AssemblyVersion": "7.5.5.26",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785864311"
+    "LastUpdate": "1785917229"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
