@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.24：修复众包 CE 页岛内同伴数量统计（心跳响应补充岛内人数，并按当前实列过滤，只统计正在岛上的玩家）；移除众包页在线玩家名单显示。",
-    "AssemblyVersion": "3.3.24.0",
+    "Changelog": "3.3.25：众包 CE 服务增加访问令牌鉴权与数据脱敏（在线玩家名单、上传者信息不再下发，写接口需令牌）；修复服务器 zone=0 聚合查询；已结束 CE 记录默认保留显示（可在设置中筛选活跃项）。",
+    "AssemblyVersion": "3.3.25.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785985859"
+    "LastUpdate": "1786031011"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
