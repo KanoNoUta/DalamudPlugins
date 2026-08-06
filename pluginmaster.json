@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.28 禁书丢书塔补时间清除（cast 结束事件缺失导致塔残留）。",
-    "AssemblyVersion": "7.5.5.28",
+    "Changelog": "7.5.5.29 禁书震雷方格直条修复：直条改为贯通全场的井字整体绘制，两批交错不再铺满全场。",
+    "AssemblyVersion": "7.5.5.29",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785950319"
+    "LastUpdate": "1786009192"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",

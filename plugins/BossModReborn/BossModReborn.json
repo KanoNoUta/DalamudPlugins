@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.28",
+  "AssemblyVersion": "7.5.5.29",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.28 禁书丢书塔补时间清除（cast 结束事件缺失导致塔残留）。",
+  "Changelog": "7.5.5.29 禁书震雷方格直条修复：直条改为贯通全场的井字整体绘制，两批交错不再铺满全场。",
   "AcceptsFeedback": true
 }
