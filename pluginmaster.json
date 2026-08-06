@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.23：新增众包 CE 数据（服务器同步岛内 CE 状态、在线人数/岛内同伴，可在设置→显示与通知中配置）；修复已结束 CE 仍显示战斗中；移除事件页副本 ID 显示；补齐 /bocchibuff、/bocchitp 帮助文案；恢复主界面顶部紧急停止与自动模式按钮。",
-    "AssemblyVersion": "3.3.23.0",
+    "Changelog": "3.3.24：修复众包 CE 页岛内同伴数量统计（心跳响应补充岛内人数，并按当前实列过滤，只统计正在岛上的玩家）；移除众包页在线玩家名单显示。",
+    "AssemblyVersion": "3.3.24.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1785954806"
+    "LastUpdate": "1785985859"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
