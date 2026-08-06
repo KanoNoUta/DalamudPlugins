@@ -1,15 +1,15 @@
-﻿{
+{
   "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
   "Name": "BOCCHI 新月岛综合辅助（国服）",
   "InternalName": "BOCCHI",
-  "AssemblyVersion": "3.3.24.0",
+  "AssemblyVersion": "3.3.25.0",
   "Punchline": "国服 7.55 适配：新月岛南部与北部综合辅助",
   "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
   "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-  "Changelog": "3.3.24：修复众包 CE 页岛内同伴数量统计（心跳响应补充岛内人数，并按当前实列过滤，只统计正在岛上的玩家）；移除众包页在线玩家名单显示。",
+  "Changelog": "3.3.25：众包 CE 服务增加访问令牌鉴权与数据脱敏（在线玩家名单、上传者信息不再下发，写接口需令牌）；修复服务器 zone=0 聚合查询；已结束 CE 记录默认保留显示（可在设置中筛选活跃项）。",
   "AcceptsFeedback": true,
   "Tags": [
     "BOCCHI",
