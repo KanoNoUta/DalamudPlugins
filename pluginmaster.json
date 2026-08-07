@@ -44,7 +44,7 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.30 修复惨白魔人/统领奇美拉/遗迹冰狼模块被上游重复模块顶掉（OID 注册冲突），国服机制恢复。",
+    "Changelog": "7.5.5.30 恢复惨白魔人/统领奇美拉/遗迹冰狼国服机制，汉化设置页面、雷达、技能调整、自动移动、回放格式和模块质量说明。",
     "AssemblyVersion": "7.5.5.30",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786030166"
+    "LastUpdate": "1786105728"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
