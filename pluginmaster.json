@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.26：重构整体 UI 与简洁启停交互；完善北岛与超魔之塔雷区辅助；修复 CE 历史及结束状态显示；新增自动轮换测试进入并自动确认入岛；自动低等级职业排除自由人。",
-    "AssemblyVersion": "3.3.26.0",
+    "Changelog": "3.3.27：临时关闭魔之塔最终 Boss 冰火雷实心绘制，避免遮挡战斗视野；修复新 UI 重复缩放、标题栏按钮错位与简洁模式不同步；补充超魔之塔雷点候选数据；修正 CE 众包事件过滤与未来时间显示。",
+    "AssemblyVersion": "3.3.27.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786106533"
+    "LastUpdate": "1786164133"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
