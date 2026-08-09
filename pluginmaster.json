@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.32 恢复并完善普通魔之塔四场战斗绘制：修复双头龙雷冰簇、剑舞者投剑/突进/击退、惧死者黑暗奔流及老四不规则平台轮廓与平台机制；修正新月风扇暴风为不可躲全场伤害。",
-    "AssemblyVersion": "7.5.5.32",
+    "Changelog": "7.5.5.33 修复神木巨人移动风刃在爆炸后的危险区残留；优化精炼斗气弹四连钢铁的 AI 走位，优先在末次预兆区域等待并随判定逐步转移。",
+    "AssemblyVersion": "7.5.5.33",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786284751"
+    "LastUpdate": "1786290282"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
