@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.30",
+  "AssemblyVersion": "7.5.5.31",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.30 恢复惨白魔人/统领奇美拉/遗迹冰狼国服机制，汉化设置页面、雷达、技能调整、自动移动、回放格式和模块质量说明。",
+  "Changelog": "7.5.5.31 修复神木巨人移动斗气刃、惨白魔人反转学习指令换位 AI、变形法师烈火焰狱冲伤害线错位；关闭超魔之塔模块绘制，保留普魔及其他预设。",
   "AcceptsFeedback": true
 }

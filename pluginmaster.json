@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.30 恢复惨白魔人/统领奇美拉/遗迹冰狼国服机制，汉化设置页面、雷达、技能调整、自动移动、回放格式和模块质量说明。",
-    "AssemblyVersion": "7.5.5.30",
+    "Changelog": "7.5.5.31 修复神木巨人移动斗气刃、惨白魔人反转学习指令换位 AI、变形法师烈火焰狱冲伤害线错位；关闭超魔之塔模块绘制，保留普魔及其他预设。",
+    "AssemblyVersion": "7.5.5.31",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786105728"
+    "LastUpdate": "1786279360"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
