@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.27：临时关闭魔之塔最终 Boss 冰火雷实心绘制，避免遮挡战斗视野；修复新 UI 重复缩放、标题栏按钮错位与简洁模式不同步；补充超魔之塔雷点候选数据；修正 CE 众包事件过滤与未来时间显示。",
-    "AssemblyVersion": "3.3.27.0",
+    "Changelog": "3.3.28：补全超魔之塔 141 个雷点候选（ARR、地图与回放数据，含最新 7 点）；北岛魔法罐 FATE 默认启用且不覆盖已保存选择；修复简洁模式标题与标题栏控件重叠。",
+    "AssemblyVersion": "3.3.28.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786164169"
+    "LastUpdate": "1786278497"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
