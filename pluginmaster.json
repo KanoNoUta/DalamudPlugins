@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.28：补全超魔之塔 141 个雷点候选（ARR、地图与回放数据，含最新 7 点）；北岛魔法罐 FATE 默认启用且不覆盖已保存选择；修复简洁模式标题与标题栏控件重叠。",
-    "AssemblyVersion": "3.3.28.0",
+    "Changelog": "3.3.29：优化 FATE 目标接管以减少绕路；北岛寻宝严格按 68 点编号并新增撒娇罐范围预测；FATE 与 CE 出发延迟分开设置；修复岛内同伴离开后统计不刷新。",
+    "AssemblyVersion": "3.3.29.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786278569"
+    "LastUpdate": "1786298083"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
