@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.29：优化 FATE 目标接管以减少绕路；北岛寻宝严格按 68 点编号并新增撒娇罐范围预测；FATE 与 CE 出发延迟分开设置；修复岛内同伴离开后统计不刷新。",
-    "AssemblyVersion": "3.3.29.0",
+    "Changelog": "3.3.30：修复国服 PublicInstance 为 0 时岛内同伴始终显示 0；改用 ZoneServerID 维持心跳与上传；过滤旧区域 CE 历史，恢复新月岛 CE 名称显示。",
+    "AssemblyVersion": "3.3.30.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786298153"
+    "LastUpdate": "1786344449"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
