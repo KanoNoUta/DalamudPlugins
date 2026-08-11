@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.35 修复惨白魔人魔界花吐息走进电网、死亡转盘不找安全区；魔塔老一定时诅咒击退距离校准为 20y。",
-    "AssemblyVersion": "7.5.5.35",
+    "Changelog": "7.5.5.36 修复神木巨人古代烈风长直条截断：按官方 Action 尺寸与 ARR 施法方向恢复为场边 helper 前向 70y×6y。",
+    "AssemblyVersion": "7.5.5.36",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786429875"
+    "LastUpdate": "1786441702"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
