@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.34 修复惨白魔人魔界花吐息方向误判与贴电网走位；死亡转盘提前使用指示器方向绘制危险格，并引导 AI 前往内圈安全扇区。",
-    "AssemblyVersion": "7.5.5.34",
+    "Changelog": "7.5.5.35 修复惨白魔人魔界花吐息走进电网、死亡转盘不找安全区；魔塔老一定时诅咒击退距离校准为 20y。",
+    "AssemblyVersion": "7.5.5.35",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786380439"
+    "LastUpdate": "1786429754"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",

@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.34",
+  "AssemblyVersion": "7.5.5.35",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.34 修复惨白魔人魔界花吐息方向误判与贴电网走位；死亡转盘提前使用指示器方向绘制危险格，并引导 AI 前往内圈安全扇区。",
+  "Changelog": "7.5.5.35 修复惨白魔人魔界花吐息走进电网、死亡转盘不找安全区；魔塔老一定时诅咒击退距离校准为 20y。",
   "AcceptsFeedback": true
 }
