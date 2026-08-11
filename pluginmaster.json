@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.32：修复众包身份初始化导致插件无法加载；修复 ZoneServerID 短暂为 0 时岛内同伴误显示全岛汇总；岛外隐藏事件、探索、刷怪及众包数据。",
-    "AssemblyVersion": "3.3.32.0",
+    "Changelog": "3.3.33：修复魔之塔与超魔之塔被众包上传过滤，恢复事件出现和结束历史记录；仅放行已知塔事件，继续过滤其他高类型动态事件。",
+    "AssemblyVersion": "3.3.33.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786429457"
+    "LastUpdate": "1786442881"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
