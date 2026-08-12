@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.36",
+  "AssemblyVersion": "7.5.5.37",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.36 修复神木巨人古代烈风长直条截断：按官方 Action 尺寸与 ARR 施法方向恢复为场边 helper 前向 70y×6y。",
+  "Changelog": "7.5.5.37 修复撒娇罐大风扇的暴风：移除无需躲避的全场伤害提示，避免 AI 读条期间错误跑向远处。",
   "AcceptsFeedback": true
 }
