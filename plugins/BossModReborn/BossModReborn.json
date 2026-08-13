@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.37",
+  "AssemblyVersion": "7.5.5.38",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.37 修复撒娇罐大风扇的暴风：移除无需躲避的全场伤害提示，避免 AI 读条期间错误跑向远处。",
+  "Changelog": "7.5.5.38 整合并感谢 youdianfengbao 的北岛维护：优化神木巨人移动刀与斗气刃的 AI 优先避让；修复惨白魔人死亡轮盘外环和替身学习指令安全引导；新增近战/坦克与远程/治疗独立目标距离设置；修复普通魔之塔四层飞翔指令击退可能被引导出平台的问题。",
   "AcceptsFeedback": true
 }
