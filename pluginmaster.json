@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.38 整合并感谢 youdianfengbao 的北岛维护：优化神木巨人移动刀与斗气刃的 AI 优先避让；修复惨白魔人死亡轮盘外环和替身学习指令安全引导；新增近战/坦克与远程/治疗独立目标距离设置；修复普通魔之塔四层飞翔指令击退可能被引导出平台的问题。",
-    "AssemblyVersion": "7.5.5.38",
+    "Changelog": "7.5.5.39 完整同步并感谢 youdianfengbao 修复的惨白魔人机制；修正负隅宝石兽连续击退为第二 helper 位置 30y 外推，并移除会让近战击退阶段追首领的硬编码目标区。",
+    "AssemblyVersion": "7.5.5.39",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786600026"
+    "LastUpdate": "1786691491"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
