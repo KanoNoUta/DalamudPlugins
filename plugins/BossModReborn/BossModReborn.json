@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.5.39",
+  "AssemblyVersion": "7.5.5.41",
   "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "国服副本与新月岛战斗机制提示",
-  "Changelog": "7.5.5.39 完整同步并感谢 youdianfengbao 修复的惨白魔人机制；修正负隅宝石兽连续击退为第二 helper 位置 30y 外推，并移除会让近战击退阶段追首领的硬编码目标区。",
+  "Changelog": "7.5.5.41 感谢 youdianfengbao：修复新月风扇 FATE 2073 生命周期、普魔之塔 Boss 死亡兜底，并将提蔛侧方鞭打修正为左右双侧 180° 半圆；保留本地 CE206 连续击退和魔之塔场地修复。",
   "AcceptsFeedback": true
 }
