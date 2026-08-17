@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.37：新增死亡后等待救援超时自动返回，默认 10 分钟并可自定义；修复小小法师中 BOCCHI 强制目标覆盖 BMR 机制目标。",
-    "AssemblyVersion": "3.3.37.0",
+    "Changelog": "3.3.38：修复存活状态下 FATE/CE 结束后自动返回偶发遗漏；统一读取两个返回开关，并保留寻宝、兔子与刷怪导航优先级。",
+    "AssemblyVersion": "3.3.38.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786947306"
+    "LastUpdate": "1786956678"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
