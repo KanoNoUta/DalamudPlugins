@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.5.41 感谢 youdianfengbao：修复新月风扇 FATE 2073 生命周期、普魔之塔 Boss 死亡兜底，并将提蔛侧方鞭打修正为左右双侧 180° 半圆；保留本地 CE206 连续击退和魔之塔场地修复。",
-    "AssemblyVersion": "7.5.5.41",
+    "Changelog": "7.5.5.44 感谢 youdianfengbao：同步 CE202 小小法师击退时序、CE207 冰花预警、CE213 蜘蛛突进路径、CE214 古术魔典宽扇形与塔机制、FTMN2 飞剑，以及伊阿姆柏强制位移修复；保留本地 CE206、CE215 与魔之塔场地定制。",
+    "AssemblyVersion": "7.5.5.44",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1786870376"
+    "LastUpdate": "1787144830"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
