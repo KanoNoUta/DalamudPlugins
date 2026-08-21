@@ -2,7 +2,7 @@
   "Author": "kano",
   "Name": "琉璃的宝石",
   "InternalName": "ruri",
-  "AssemblyVersion": "0.1.0.0",
+  "AssemblyVersion": "0.1.1.0",
   "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
   "ApplicableVersion": "any",
   "Tags": [
@@ -16,6 +16,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
   "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
   "Changelog": "整合原生生产、GatherBuddyReborn 采集、钓鱼与 Omni 购买流程，提供带结果确认的安全执行链。",
   "AcceptsFeedback": true
