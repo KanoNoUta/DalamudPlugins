@@ -99,7 +99,7 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "传送全面原生化：水晶传送与跨服访问改用游戏原生 Telepo/AgentWorldTravel，不再经 Lifestream UI；原生失败闭锁，不再自动回退。修复跨服采购与多步购买链路。",
+    "Changelog": "传送全面原生化：水晶传送与跨服访问改用游戏原生 Telepo/AgentWorldTravel 调用，不再经 Lifestream UI，消除卡顿；采购确认界面重设计（表格布局与物品图标）；跨服购买返回家服；多步购买忙等修复。",
     "AssemblyVersion": "0.1.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -108,6 +108,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1787417062"
+    "LastUpdate": "1787417214"
   }
 ]
