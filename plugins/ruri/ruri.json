@@ -2,7 +2,7 @@
   "Author": "kano",
   "Name": "琉璃的宝石",
   "InternalName": "ruri",
-  "AssemblyVersion": "0.1.1.0",
+  "AssemblyVersion": "0.1.2.0",
   "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
   "ApplicableVersion": "any",
   "Tags": [
@@ -18,6 +18,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
   "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
-  "Changelog": "整合原生生产、GatherBuddyReborn 采集、钓鱼与 Omni 购买流程，提供带结果确认的安全执行链。",
+  "Changelog": "传送全面原生化：水晶传送与跨服访问改用游戏原生 Telepo/AgentWorldTravel 调用，不再经 Lifestream UI，消除卡顿；采购确认界面重设计（表格布局与物品图标）；跨服购买返回家服；多步购买忙等修复。",
   "AcceptsFeedback": true
 }
