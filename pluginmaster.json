@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.42：副本轮换自动检测并启用 DailyRoutines 的自动跳过对话、特殊场景探索进入指令和即刻退本模块；进入和退出均等待模块就绪后执行。",
-    "AssemblyVersion": "3.3.42.0",
+    "Changelog": "3.3.43：修复副本轮换反复执行 DailyRoutines 模块加载命令；IPC 成功时不再重复发送 /pdr load，仅在 IPC 不可用或拒绝时限频兜底。",
+    "AssemblyVersion": "3.3.43.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1787472500"
+    "LastUpdate": "1787848163"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
