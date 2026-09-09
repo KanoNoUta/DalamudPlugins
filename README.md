@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 当前插件
 
+- 琉璃的宝石 `0.1.4.0`：修复采购后回私人住宅的技能映射阻塞，优化购买状态轮询、完成确认和取消清理，并补齐模型资源与运行依赖。
 - BOCCHI `3.3.19.0`：重构整体 UI 与自动启停交互；新增北岛编号寻宝路线、路线图、就近起点和实时宝箱定位；修复金币时薪基线、暂停残留移动与寻宝途中 FATE 回城抢占。
 - Lifestream `2.5.4.15`：国服传送与移动辅助，新增以太网传送状态、失败原因和序列号 IPC。
 - BossMod Reborn CN `7.5.5.30`：国服 7.55 新月岛北部 CE/FATE 机制提示；修复惨白魔人/统领奇美拉/遗迹冰狼模块注册冲突。

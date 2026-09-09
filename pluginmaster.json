@@ -99,8 +99,8 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "修复原生跨服确认后反复点击水晶和派发等待问题；紧急停止立即结束订单，不再等待采购批次回服；生产记录增加物品图标与宽行距，并按单次订单合并同类物品数量。",
-    "AssemblyVersion": "0.1.3.0",
+    "Changelog": "修复国服“冒进”技能映射失败导致采购后无法返回私人住宅的问题；订单在采购前检查后续执行接口并显示具体错误；优化购买状态轮询、结束确认、取消清理和行情超时，减少购买卡顿与重复等待；修复模型资源安装目录定位并完整打包运行依赖。",
+    "AssemblyVersion": "0.1.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
@@ -108,6 +108,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1787548810"
+    "LastUpdate": "1788930223"
   }
 ]
