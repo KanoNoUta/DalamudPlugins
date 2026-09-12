@@ -76,7 +76,7 @@
     ],
     "InternalName": "BossModRebornCrucibleTest",
     "RepoUrl": "https://github.com/KanoNoUta/DalamudPlugins",
-    "Changelog": "7.5.6.0：斗兽奇弈机制与验证代码定向混淆；验证后台记录角色名与原服务器，本机加密记住 CID 激活信息，登录自动验证并显示剩余天数。以独立测试插件上架，原版 BossMod 条目保持独立。",
+    "Changelog": "",
     "AssemblyVersion": "7.5.6.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -90,7 +90,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModRebornCrucibleTest/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModRebornCrucibleTest/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789195000"
+    "LastUpdate": "1789195650"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
