@@ -1,11 +1,11 @@
 {
   "Author": "KanoNoUta（国服 7.55 适配）",
-  "Name": "BossMod 斗兽版本 测试",
-  "InternalName": "BossModRebornCrucibleTest",
-  "AssemblyVersion": "7.5.6.0",
-  "Description": "斗兽奇弈机制提示与自动避让测试版，支持 CID 激活、记住激活信息和剩余天数显示。与原版使用独立安装目录和配置；启用前请先禁用原版 BossMod。",
-  "ApplicableVersion": "any",
+  "Name": "BossModReborn 斗兽版本 测试",
+  "InternalName": "BossModReborn",
   "RepoUrl": "https://github.com/KanoNoUta/DalamudPlugins",
+  "Description": "斗兽奇弈机制提示与自动避让测试版，支持 CID 激活、记住激活信息和剩余天数显示。启用前请先停用其他 BossMod / BossModReborn 版本。",
+  "Changelog": "",
+  "ApplicableVersion": "any",
   "Tags": [
     "combat",
     "boss",
@@ -20,13 +20,14 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IsTestingExclusive": false,
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+  "Punchline": "斗兽奇弈机制提示与自动避让",
+  "AcceptsFeedback": true,
   "ImageUrls": [
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-  "Punchline": "斗兽奇弈机制提示与自动避让 · 测试版",
-  "Changelog": "",
-  "AcceptsFeedback": true
+  "AssemblyVersion": "7.5.6.1"
 }

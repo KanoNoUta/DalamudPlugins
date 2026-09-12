@@ -58,39 +58,10 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1787144899"
-  },
-  {
-    "Author": "KanoNoUta（国服 7.55 适配）",
-    "Name": "BossMod 斗兽版本 测试",
-    "Punchline": "斗兽奇弈机制提示与自动避让 · 测试版",
-    "Description": "斗兽奇弈机制提示与自动避让测试版，支持 CID 激活、记住激活信息和剩余天数显示。与原版使用独立安装目录和配置；启用前请先禁用原版 BossMod。",
-    "Tags": [
-      "combat",
-      "boss",
-      "dodge",
-      "mechanics",
-      "pve",
-      "raids",
-      "trials"
-    ],
-    "InternalName": "BossModRebornCrucibleTest",
-    "RepoUrl": "https://github.com/KanoNoUta/DalamudPlugins",
-    "Changelog": "",
-    "AssemblyVersion": "7.5.6.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
-      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
-      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
-    ],
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModRebornCrucibleTest/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModRebornCrucibleTest/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1789195693"
+    "LastUpdate": "1787144899",
+    "TestingAssemblyVersion": "7.5.6.1",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/testing/latest.zip"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
