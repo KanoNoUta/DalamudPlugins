@@ -2,7 +2,7 @@
   "Author": "KanoNoUta（国服 7.55 适配）",
   "Name": "BossModReborn 斗兽版本 测试",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.2",
+  "AssemblyVersion": "7.5.6.3",
   "Description": "基于 BossModReborn 的斗兽奇弈机制提示与自动避让，支持 CID 激活验证。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/DalamudPlugins",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.2 测试版：包含斗兽奇弈高段第二盘奇美拉、美杜莎最新机制修正，请反馈实战表现。",
+  "Changelog": "7.5.6.3 测试版：修复 AI 持续运行后停走、角色加载时丢失 AI ON 与外部寻路残留；杜尔迦改为场边放气化炸弹后向场内对角击退40米；补充巨人和劳妲机制。仅混淆验证，登录验证成功后无联网心跳。",
   "AcceptsFeedback": true
 }
