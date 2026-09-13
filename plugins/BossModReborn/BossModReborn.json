@@ -1,9 +1,9 @@
 {
   "Author": "KanoNoUta（国服 7.55 适配）",
-  "Name": "BossModReborn 斗兽版本",
+  "Name": "BossMod Reborn CN",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.2",
-  "Description": "基于 BossModReborn 的斗兽奇弈机制提示与自动避让，支持 CID 激活验证。",
+  "AssemblyVersion": "7.5.6.4",
+  "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
   "Tags": [
@@ -26,7 +26,7 @@
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-  "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.2：补全斗兽奇弈高段第二盘奇美拉、美杜莎机制；修复奇美拉连线贴边、扩大冰圈绘制及开场钢铁+扇形贪输出时序。",
+  "Punchline": "国服副本与新月岛战斗机制提示",
+  "Changelog": "7.5.6.4：修正普通版与斗兽测试版安装包混用，恢复新月岛普通版及原有机制修复；普通功能无需激活验证。",
   "AcceptsFeedback": true
 }
