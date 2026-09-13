@@ -59,7 +59,7 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1787144899",
-    "TestingAssemblyVersion": "7.5.6.1",
+    "TestingAssemblyVersion": "7.5.6.2",
     "TestingDalamudApiLevel": 15,
     "DownloadLinkTesting": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/testing/latest.zip"
   },
