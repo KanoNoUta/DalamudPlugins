@@ -30,8 +30,8 @@
   },
   {
     "Author": "KanoNoUta",
-    "Name": "BossMod Reborn CN",
-    "Punchline": "国服副本与新月岛战斗机制提示",
+    "Name": "BossModReborn 斗兽版本",
+    "Punchline": "斗兽奇弈机制提示与自动避让",
     "Description": "支持斗兽自走棋部分线路",
     "Tags": [
       "combat",
@@ -44,7 +44,7 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.6.6：支持斗兽自走棋部分线路。",
+    "Changelog": "移除全部激活验证与混淆，斗兽奇弈功能可直接使用。",
     "AssemblyVersion": "7.5.6.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789358415"
+    "LastUpdate": "1789358430"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
