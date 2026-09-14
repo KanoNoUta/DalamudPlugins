@@ -2,7 +2,7 @@
   "Author": "KanoNoUta",
   "Name": "BossModReborn 斗兽版本",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.7",
+  "AssemblyVersion": "7.5.6.8",
   "Description": "支持斗兽自走棋部分线路",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.7：支持斗兽自走棋部分线路。修复杜尔迦清怪后切回Boss；美杜莎优先小怪并引导射线后躲避；优化巨人史莱姆、奇美拉冰圈与咆哮，补充劳妲场地、三剑、止步击退及飞刀核爆；包含毒龙第四毒圈即时避让和AI移动恢复修复。劳妲后续落地/跳起阶段暂为提示，自动走位待验证。无激活验证与混淆。",
+  "Changelog": "7.5.6.8：毒龙尾王毒圈间距调整为7/10/7码；美杜莎改为手动选目标，石化射线按当前选中的小怪引导；修复夺心魔换宠及缺少宠物点名时的水圈分散，小怪靠近水圈后再切换攻击。",
   "AcceptsFeedback": true
 }
