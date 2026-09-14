@@ -2,7 +2,7 @@
   "Author": "KanoNoUta",
   "Name": "BossModReborn 斗兽版本",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.8",
+  "AssemblyVersion": "7.5.6.9",
   "Description": "支持斗兽自走棋部分线路",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.8：毒龙尾王毒圈间距调整为7/10/7码；美杜莎改为手动选目标，石化射线按当前选中的小怪引导；修复夺心魔换宠及缺少宠物点名时的水圈分散，小怪靠近水圈后再切换攻击。",
+  "Changelog": "7.5.6.9：补全斯芬克斯数字谜题安全区和自动答题；优化尾王三剑引导时机，保留输出并在锁线前到位；完善大眼轮盘、连续击退和尾王双强化魔刃处理；解除夺心魔目标硬锁。",
   "AcceptsFeedback": true
 }

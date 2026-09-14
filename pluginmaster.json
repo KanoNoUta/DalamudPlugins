@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.6.8：毒龙尾王毒圈间距调整为7/10/7码；美杜莎改为手动选目标，石化射线按当前选中的小怪引导；修复夺心魔换宠及缺少宠物点名时的水圈分散，小怪靠近水圈后再切换攻击。",
-    "AssemblyVersion": "7.5.6.8",
+    "Changelog": "7.5.6.9：补全斯芬克斯数字谜题安全区和自动答题；优化尾王三剑引导时机，保留输出并在锁线前到位；完善大眼轮盘、连续击退和尾王双强化魔刃处理；解除夺心魔目标硬锁。",
+    "AssemblyVersion": "7.5.6.9",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789392679"
+    "LastUpdate": "1789403736"
   },
   {
     "Author": "KanoNoUta（国服 7.55 适配）",
