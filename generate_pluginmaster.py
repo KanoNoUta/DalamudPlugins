@@ -121,6 +121,12 @@ def extract_manifests() -> list[dict]:
             base_entry["TestingAssemblyVersion"] = testing_manifest["AssemblyVersion"]
             base_entry["TestingDalamudApiLevel"] = testing_manifest["DalamudApiLevel"]
             base_entry["DownloadLinkTesting"] = download_url(plugin_name, "testing")
+            base_entry["LastUpdate"] = str(max(int(base_entry["LastUpdate"]), int(last_update(testing_zip))))
+            if testing_manifest.get("Changelog"):
+                base_entry["Changelog"] = (
+                    f"测试通道：{testing_manifest['Changelog']}\n"
+                    f"正式通道：{base_entry.get('Changelog', '')}"
+                )
         manifests.append(base_entry)
 
         for subfolder in sorted(path for path in plugin_dir.iterdir() if path.is_dir()):

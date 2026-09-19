@@ -1,0 +1,32 @@
+{
+  "Author": "KanoNoUta",
+  "Name": "BossModReborn 斗兽版本",
+  "InternalName": "BossModReborn",
+  "AssemblyVersion": "7.5.6.12",
+  "Description": "支持斗兽自走棋部分线路",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
+  "Tags": [
+    "combat",
+    "boss",
+    "dodge",
+    "mechanics",
+    "pve",
+    "raids",
+    "trials"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+    "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+    "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+  "Punchline": "斗兽奇弈机制提示与自动避让",
+  "Changelog": "7.5.6.12：优化斯芬克斯数字格处理与答题状态清理；修复劳妲击退站位、人物面向及后续半场落点，叠加圆形范围时分阶段就位；Boss和小怪自动选择一次后放开手动目标。",
+  "AcceptsFeedback": true
+}

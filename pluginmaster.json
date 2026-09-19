@@ -44,7 +44,7 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.6.11：补充斗兽普通一、二、三盘及高一机制与场地轮廓；修正连续击退、落点及范围预警；爆弹小怪不再持续躲跑；修复与 AutoDuty 同开时误选自身的问题。保留石像鬼特化拉线。",
+    "Changelog": "测试通道：7.5.6.12：优化斯芬克斯数字格处理与答题状态清理；修复劳妲击退站位、人物面向及后续半场落点，叠加圆形范围时分阶段就位；Boss和小怪自动选择一次后放开手动目标。\n正式通道：7.5.6.11：补充斗兽普通一、二、三盘及高一机制与场地轮廓；修正连续击退、落点及范围预警；爆弹小怪不再持续躲跑；修复与 AutoDuty 同开时误选自身的问题。保留石像鬼特化拉线。",
     "AssemblyVersion": "7.5.6.11",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -58,7 +58,10 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789831816"
+    "LastUpdate": "1789835081",
+    "TestingAssemblyVersion": "7.5.6.12",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/testing/latest.zip"
   },
   {
     "Author": "kano",
