@@ -2,7 +2,7 @@
   "Author": "KanoNoUta",
   "Name": "BossModReborn 斗兽版本",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.10",
+  "AssemblyVersion": "7.5.6.11",
   "Description": "支持斗兽自走棋部分线路",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.10：高一尾王四连落毒改为14×7y矩形路线；第2、3点靠场边，第1、4点靠场心；第2、3圈边缘保留2y通道，第1、2与第3、4点间距保持7y。",
+  "Changelog": "7.5.6.11：补充斗兽普通一、二、三盘及高一机制与场地轮廓；修正连续击退、落点及范围预警；爆弹小怪不再持续躲跑；修复与 AutoDuty 同开时误选自身的问题。保留石像鬼特化拉线。",
   "AcceptsFeedback": true
 }
