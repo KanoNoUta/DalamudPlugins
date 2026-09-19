@@ -61,33 +61,6 @@
     "LastUpdate": "1789406240"
   },
   {
-    "Author": "KanoNoUta（国服 7.55 适配）",
-    "Name": "Lifestream",
-    "Punchline": "国服 7.55 适配：加速以太网旅行、跨服与新月岛北部传送。",
-    "Description": "- 国服 7.55 适配\n- 一键传送到任何服务器或以太网目的地\n- 支持新月岛北部 6 个魔路点传送",
-    "Tags": [
-      "传送",
-      "跨服",
-      "以太之光",
-      "新月岛",
-      "北岛",
-      "国服",
-      "7.55"
-    ],
-    "InternalName": "Lifestream",
-    "RepoUrl": "https://github.com/KanoNoUta/Lifestream",
-    "Changelog": "2.5.4.15：新增以太网传送状态、失败原因与序列号 IPC；统一北岛水晶传送排队、派发和失败状态，供自动导航精准判断。",
-    "AssemblyVersion": "2.5.4.15",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/Lifestream/main/Lifestream/images/icon.png",
-    "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/Lifestream/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1785411159"
-  },
-  {
     "Author": "kano",
     "Name": "琉璃的宝石",
     "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
