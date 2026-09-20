@@ -2,10 +2,10 @@
   "Author": "KanoNoUta",
   "Name": "BossModReborn 斗兽版本",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.11",
+  "AssemblyVersion": "7.5.6.13",
   "Description": "支持斗兽自走棋部分线路",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
+  "RepoUrl": "https://github.com/KanoNoUta/BossmodReborn",
   "Tags": [
     "combat",
     "boss",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.11：补充斗兽普通一、二、三盘及高一机制与场地轮廓；修正连续击退、落点及范围预警；爆弹小怪不再持续躲跑；修复与 AutoDuty 同开时误选自身的问题。保留石像鬼特化拉线。",
+  "Changelog": "7.5.6.13：修复机制持续抢回小怪目标的问题；转火只选择一次，随后尊重手动换目标和清空目标；小怪死亡或新一波机制时继续正常转火，保留大眼危险阶段停手保护。",
   "AcceptsFeedback": true
 }
