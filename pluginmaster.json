@@ -75,8 +75,8 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "修复国服“冒进”技能映射失败导致采购后无法返回私人住宅的问题；订单在采购前检查后续执行接口并显示具体错误；优化购买状态轮询、结束确认、取消清理和行情超时，减少购买卡顿与重复等待；修复模型资源安装目录定位并完整打包运行依赖。",
-    "AssemblyVersion": "0.1.4.0",
+    "Changelog": "修复最终确认等不推进步数的技能生效后仍等待超时、制作卡住的问题；品质达标后优先使用已验证的短收尾路线，避免模型反复补增益；完善模型失败后的传统算法回退与预检方案续用；修复购买行情加载失败后的恢复、取消和停止清理，避免无依据重试。",
+    "AssemblyVersion": "0.1.5.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
@@ -84,6 +84,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1788930335"
+    "LastUpdate": "1789898504"
   }
 ]
