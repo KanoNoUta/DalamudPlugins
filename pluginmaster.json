@@ -43,9 +43,9 @@
       "trials"
     ],
     "InternalName": "BossModReborn",
-    "RepoUrl": "https://github.com/KanoNoUta/BossmodReborn",
-    "Changelog": "7.5.6.13：修复机制持续抢回小怪目标的问题；转火只选择一次，随后尊重手动换目标和清空目标；小怪死亡或新一波机制时继续正常转火，保留大眼危险阶段停手保护。",
-    "AssemblyVersion": "7.5.6.13",
+    "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
+    "Changelog": "7.5.6.14：树精阶段取消小怪自动转火和优先击杀提示，保留手动选择及清空目标；继续保留树精脚下禁区、范围预警和避让。",
+    "AssemblyVersion": "7.5.6.14",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789914155"
+    "LastUpdate": "1790067496"
   },
   {
     "Author": "kano",
