@@ -72,8 +72,8 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "修复最终确认等不推进步数的技能生效后仍等待超时、制作卡住的问题；品质达标后优先使用已验证的短收尾路线，避免模型反复补增益；完善模型失败后的传统算法回退与预检方案续用；修复购买行情加载失败后的恢复、取消和停止清理，避免无依据重试。",
-    "AssemblyVersion": "0.1.5.0",
+    "Changelog": "修复技能动画与资源状态尚未稳定就进入下一步的问题；改进传统算法的低 CP 收尾与可行性判断，普通制作也执行开工前预检；重整检查、执行、停止与采购确认交互，修复长按快捷键误启动；优化窄窗口布局、生产记录缓存和制作进度显示。Ctrl+Enter 检查，Ctrl+Shift+Enter 执行。模型权重未变更。",
+    "AssemblyVersion": "0.1.6.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
@@ -81,6 +81,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789898504"
+    "LastUpdate": "1790101440"
   }
 ]
