@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.44：精修返回与自动返回；修复靠近营地时返回被跳过、确认框尚未就绪导致漏点、读条与切图重叠导致卡住。动作失败或读条中断后限次重试，统一保护手动、空闲和战后返回的切图流程，并增加失败原因日志。",
-    "AssemblyVersion": "3.3.44.0",
+    "Changelog": "3.3.45：修复打完怪或赶路途中事件结束后不回城；改用 Omni 即刻退本。活动结束时一并停止残留的传送、上坐骑和寻路，等传送与读条结束后再判断是否已在营地；战后被怪缠住时自动反击，脱战后再返回；原生返回失败两次后改用以太之光传送回营地；游戏接受了返回但动作接口报失败时也会正常确认。副本轮换退本改用 Omni 的“即刻退本”，需在 Omni 中手动开启。另修复长时间挂机后残留任务链累积的每帧开销。",
+    "AssemblyVersion": "3.3.45.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1790308500"
+    "LastUpdate": "1792063738"
   },
   {
     "Author": "KanoNoUta",
