@@ -1,0 +1,86 @@
+[
+  {
+    "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
+    "Name": "BOCCHI 新月岛综合辅助（国服）",
+    "Punchline": "国服 7.55 适配：新月岛南部与北部综合辅助",
+    "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
+    "Tags": [
+      "BOCCHI",
+      "Occult Crescent",
+      "Occult",
+      "Crescent",
+      "Illegal",
+      "Critical Encounter",
+      "Fate",
+      "BOCCHER",
+      "OCH"
+    ],
+    "InternalName": "BOCCHI",
+    "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
+    "Changelog": "3.3.46：副本轮换的即刻退本改为可选插件。设置里新增“退本插件”，可选 Omni（/omni 即刻退本，默认）、XSZToolbox（/xsz leaveduty）或 DailyRoutines（/pdr leaveduty）。BOCCHI 不会自动开启这些插件的退本功能，设置页会提示到所选插件里手动开启；未检测到所选插件时会提示并停止轮换。",
+    "AssemblyVersion": "3.3.46.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1792404127"
+  },
+  {
+    "Author": "KanoNoUta",
+    "Name": "BossModReborn 斗兽版本",
+    "Punchline": "斗兽奇弈机制提示与自动避让",
+    "Description": "支持斗兽自走棋部分线路",
+    "Tags": [
+      "combat",
+      "boss",
+      "dodge",
+      "mechanics",
+      "pve",
+      "raids",
+      "trials"
+    ],
+    "InternalName": "BossModReborn",
+    "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
+    "Changelog": "7.5.6.14：树精阶段取消小怪自动转火和优先击杀提示，保留手动选择及清空目标；继续保留树精脚下禁区、范围预警和避让。",
+    "AssemblyVersion": "7.5.6.14",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+    ],
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1790096864"
+  },
+  {
+    "Author": "kano",
+    "Name": "琉璃的宝石",
+    "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
+    "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
+    "Tags": [
+      "crafting",
+      "gathering",
+      "planner",
+      "ruri"
+    ],
+    "InternalName": "ruri",
+    "Changelog": "钓鱼：加入钓法预设，有预设的鱼按预设的饵、竿型、咬钩时间、以小钓大、拍水/专一、多提、鱼识与阶段切换来钓，宇宙探索任务也按预设，预设用到的饵自动备齐；修复预设带确保多提时抛竿前空等 GP；钓鱼当前在做什么/等什么显示在任务悬浮窗；游戏拒绝的动作会跳过，竿就绪 60 秒没抛出就停下并说明原因。",
+    "AssemblyVersion": "0.1.8.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1792605697"
+  }
+]

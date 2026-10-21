@@ -1,0 +1,33 @@
+name: Regenerate PluginMaster
+
+# Manual only: publishing commits carry the regenerated pluginmaster.json
+# (run `python generate_pluginmaster.py` before committing), so a push no longer
+# starts a run or adds a bot commit.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regenerate-pluginmaster
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate pluginmaster.json
+        run: python generate_pluginmaster.py
+      - name: Commit generated index
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: Regenerate pluginmaster.json

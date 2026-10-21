@@ -1,0 +1,23 @@
+{
+  "Author": "kano",
+  "Name": "琉璃的宝石",
+  "InternalName": "ruri",
+  "AssemblyVersion": "0.1.8.2",
+  "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "crafting",
+    "gathering",
+    "planner",
+    "ruri"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
+  "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
+  "Changelog": "钓鱼：加入钓法预设，有预设的鱼按预设的饵、竿型、咬钩时间、以小钓大、拍水/专一、多提、鱼识与阶段切换来钓，宇宙探索任务也按预设，预设用到的饵自动备齐；修复预设带确保多提时抛竿前空等 GP；钓鱼当前在做什么/等什么显示在任务悬浮窗；游戏拒绝的动作会跳过，竿就绪 60 秒没抛出就停下并说明原因。",
+  "AcceptsFeedback": true
+}
