@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.4.0：移植上游魔法罐功能（设置“自动运行 > 魔法罐”）。新增罐子刷新计时与面板倒计时（本岛没见过罐子时用 CE 共享数据推算）、出现前提前蹲点、罐前停止接 FATE/CE、魔法罐优先、自动开罐后宝箱（按罗盘提示找宝箱，默认关闭）和罐子最少剩余时间。蹲点和开宝箱期间不会触发副本轮换。未移植上游的云同步、宝箱罐子专用模式、忍者隐身和以太网路线规划。以上功能未经游戏内实测。",
-    "AssemblyVersion": "3.4.0.0",
+    "Changelog": "3.5.0：继续移植上游自动模式和寻宝功能。FATE 按距离和进度打分，可跳过进度过高的 FATE；去 FATE 途中遇到快开的 CE 会改去 CE（可选打到一半也去）。寻宝可暂停、继续、重新规划，新增只开银箱、每 N 个点放寻宝术、南岛危险天气和夜间等待、寻宝后回营地、完成提示音；胡萝卜可无胡萝卜先侦察。新增“罐子与寻宝”模式和活动间隙自动寻宝（默认关闭）、营地空闲时自动修理（默认关闭）、两歧塔报名时自动走到报名点（默认关闭）、等待时不下坐骑。以上功能未经游戏内实测。",
+    "AssemblyVersion": "3.5.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792672791"
+    "LastUpdate": "1792675919"
   },
   {
     "Author": "KanoNoUta",
