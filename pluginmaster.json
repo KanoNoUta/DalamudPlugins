@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.6.1：修复众包岛上事件记录一直为空。插件在标题画面加载后，众包一直把你当成不在岛上，导致岛内同伴为 0、拿不到上传名额、同步不到岛上事件；现在每帧刷新所在地图。面板不再误报“本岛上传名额已满”，改为显示正在识别岛屿或等待分配名额；连接失败会写入普通日志，方便用 /bocchi logs 反馈。",
-    "AssemblyVersion": "3.6.1.0",
+    "Changelog": "3.6.2：修复众包一直显示“正在识别当前岛屿（区服 ID 未就绪）”：国服客户端更新后读取岛屿区服 ID 的特征码失效，已更新。众包面板不再把同一句提示显示两遍，还没发出请求时不再显示“服务器连接失败”。主窗口顶栏去掉与标题栏重复的设置按钮和“已停止｜收起”胶囊，设置和收起请用标题栏的齿轮和收起图标。",
+    "AssemblyVersion": "3.6.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792681180"
+    "LastUpdate": "1792690799"
   },
   {
     "Author": "KanoNoUta",
