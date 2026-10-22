@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.3.46：副本轮换的即刻退本改为可选插件。设置里新增“退本插件”，可选 Omni（/omni 即刻退本，默认）、XSZToolbox（/xsz leaveduty）或 DailyRoutines（/pdr leaveduty）。BOCCHI 不会自动开启这些插件的退本功能，设置页会提示到所选插件里手动开启；未检测到所选插件时会提示并停止轮换。",
-    "AssemblyVersion": "3.3.46.0",
+    "Changelog": "3.4.0：移植上游魔法罐功能（设置“自动运行 > 魔法罐”）。新增罐子刷新计时与面板倒计时（本岛没见过罐子时用 CE 共享数据推算）、出现前提前蹲点、罐前停止接 FATE/CE、魔法罐优先、自动开罐后宝箱（按罗盘提示找宝箱，默认关闭）和罐子最少剩余时间。蹲点和开宝箱期间不会触发副本轮换。未移植上游的云同步、宝箱罐子专用模式、忍者隐身和以太网路线规划。以上功能未经游戏内实测。",
+    "AssemblyVersion": "3.4.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792404127"
+    "LastUpdate": "1792672791"
   },
   {
     "Author": "KanoNoUta",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1790096864"
+    "LastUpdate": "1792606290"
   },
   {
     "Author": "kano",
@@ -81,6 +81,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792605697"
+    "LastUpdate": "1792606290"
   }
 ]
