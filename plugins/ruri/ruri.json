@@ -2,7 +2,7 @@
   "Author": "kano",
   "Name": "琉璃的宝石",
   "InternalName": "ruri",
-  "AssemblyVersion": "0.1.8.2",
+  "AssemblyVersion": "0.1.8.3",
   "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
   "ApplicableVersion": "any",
   "Tags": [
@@ -18,6 +18,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
   "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
-  "Changelog": "钓鱼：加入钓法预设，有预设的鱼按预设的饵、竿型、咬钩时间、以小钓大、拍水/专一、多提、鱼识与阶段切换来钓，宇宙探索任务也按预设，预设用到的饵自动备齐；修复预设带确保多提时抛竿前空等 GP；钓鱼当前在做什么/等什么显示在任务悬浮窗；游戏拒绝的动作会跳过，竿就绪 60 秒没抛出就停下并说明原因。",
+  "Changelog": "精制魔晶石：新增自动精制，订单开始前和制作中装备精炼度满 100% 时自动精制身上和兵装库的装备；修复精制到最后多点一次、提示精炼度未达并打断事件的问题，现在会逐个分类精制完再停。自动修理：装备耐久低于设定值时在订单前和制作间隙修理。方案编辑器：添加物品时先选物品再选数量和品质（HQ/收藏品），相同物品自动合并，空方案不能载入。收益页：背包里已有的材料按市价列出并显示材料树。雇员上架成功会记入记录页；角色被占用时提示具体原因。",
   "AcceptsFeedback": true
 }
