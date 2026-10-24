@@ -72,8 +72,8 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "制作食物和药酒可以自己选：自动、指定某一种或不用，并可选 HQ 优先/只用 HQ/只用普通；第一次开始订单时会先让你选好；指定的物品身上没有时直接跳过，不会换成别的。修复方案检查把购买、简易制作和采集步骤都判成「缺少适配」导致订单无法开始，现在会按实际状态检查，Omni Toolbox 不可用时直接说明原因。",
-    "AssemblyVersion": "0.1.8.4",
+    "Changelog": "修复计划检查在属性足够时仍判失败：计划里先做出来的 HQ 半成品现在会算进后续配方的初始品质，检查时也会把制作时会吃的食物和药酒算进去；记录的各职业属性不再混入当时吃着的食药。检查失败的原因改为中文，并写明按哪些属性和初始品质算的。",
+    "AssemblyVersion": "0.1.8.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
@@ -81,6 +81,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792859737"
+    "LastUpdate": "1792866698"
   }
 ]
