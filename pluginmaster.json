@@ -72,8 +72,8 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "精制魔晶石：新增自动精制，订单开始前和制作中装备精炼度满 100% 时自动精制身上和兵装库的装备；修复精制到最后多点一次、提示精炼度未达并打断事件的问题，现在会逐个分类精制完再停。自动修理：装备耐久低于设定值时在订单前和制作间隙修理。方案编辑器：添加物品时先选物品再选数量和品质（HQ/收藏品），相同物品自动合并，空方案不能载入。收益页：背包里已有的材料按市价列出并显示材料树。雇员上架成功会记入记录页；角色被占用时提示具体原因。",
-    "AssemblyVersion": "0.1.8.3",
+    "Changelog": "制作食物和药酒可以自己选：自动、指定某一种或不用，并可选 HQ 优先/只用 HQ/只用普通；第一次开始订单时会先让你选好；指定的物品身上没有时直接跳过，不会换成别的。修复方案检查把购买、简易制作和采集步骤都判成「缺少适配」导致订单无法开始，现在会按实际状态检查，Omni Toolbox 不可用时直接说明原因。",
+    "AssemblyVersion": "0.1.8.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
@@ -81,6 +81,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792782119"
+    "LastUpdate": "1792859737"
   }
 ]
