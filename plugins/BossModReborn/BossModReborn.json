@@ -2,7 +2,7 @@
   "Author": "KanoNoUta",
   "Name": "BossModReborn 斗兽版本",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.5.6.15",
+  "AssemblyVersion": "7.5.6.16",
   "Description": "支持斗兽自走棋部分线路",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
@@ -27,6 +27,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
   "Punchline": "斗兽奇弈机制提示与自动避让",
-  "Changelog": "7.5.6.15：修复副本 BOSS 战中自动选敌被锁住、AI 站着不打的问题（机制转火只选一次现仅在斗兽中生效）；切换地图不再清掉手动选择的自动循环预设；同步上游至 10 月 20 日，新增雷达 3D 投影、屏幕危险闪烁、开战提示弹窗、回放匿名化等功能，新增设置均已汉化。",
+  "Changelog": "7.5.6.16：修复 /bmrai 命令不存在的问题，插件加载时即注册；初始化失败时在聊天框显示具体原因，不再静默失效；3D 投影图层创建失败时不再影响插件其他功能。",
   "AcceptsFeedback": true
 }
