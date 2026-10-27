@@ -17,8 +17,8 @@
     ],
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-    "Changelog": "3.6.2：修复众包一直显示“正在识别当前岛屿（区服 ID 未就绪）”：国服客户端更新后读取岛屿区服 ID 的特征码失效，已更新。众包面板不再把同一句提示显示两遍，还没发出请求时不再显示“服务器连接失败”。主窗口顶栏去掉与标题栏重复的设置按钮和“已停止｜收起”胶囊，设置和收起请用标题栏的齿轮和收起图标。",
-    "AssemblyVersion": "3.6.2.0",
+    "Changelog": "3.6.3：修复魔法罐蹲点处成群玩家站着不动：在罐子附近等待或空闲时被怪攻击，之前不会还手，现在会开启 AI 和 PromeRotation 还手（不主动拉怪），脱战后关闭；两歧塔报名点等待时同样还手。未经游戏内实测，遇到问题请用 /bocchi logs 复制日志反馈。",
+    "AssemblyVersion": "3.6.3.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792690799"
+    "LastUpdate": "1793119724"
   },
   {
     "Author": "KanoNoUta",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1793097782"
+    "LastUpdate": "1793097784"
   },
   {
     "Author": "kano",
@@ -81,6 +81,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792866698"
+    "LastUpdate": "1792866707"
   }
 ]
