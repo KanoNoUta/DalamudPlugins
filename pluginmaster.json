@@ -44,8 +44,8 @@
     ],
     "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-    "Changelog": "7.5.6.16：修复 /bmrai 命令不存在的问题，插件加载时即注册；初始化失败时在聊天框显示具体原因，不再静默失效；3D 投影图层创建失败时不再影响插件其他功能。",
-    "AssemblyVersion": "7.5.6.16",
+    "Changelog": "7.5.6.17：完善博兹雅南方战线 CE 与遭遇战的机制绘制和 AI 避让，新增 2 个 CE 与 2 个遭遇战模块（感谢 duyaxxx）。",
+    "AssemblyVersion": "7.5.6.17",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -58,7 +58,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BossModReborn/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1793097784"
+    "LastUpdate": "1793370504"
   },
   {
     "Author": "kano",
