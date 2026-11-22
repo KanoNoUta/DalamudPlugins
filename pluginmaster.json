@@ -72,8 +72,8 @@
       "ruri"
     ],
     "InternalName": "ruri",
-    "Changelog": "新增「练级」页：生产/采集练级（低等级制作或采集，之后进宇宙探索升级，会解锁技能的职业任务到等级先做，满级后做完其余职业任务，可自动买 NPC 装备）和采集笔记补全（逐条补采，背包快满时自动丢弃本次采到的东西）。新增「票据」页：读取工票和神典石，收藏品路线（制作或采集收藏品、自动上交、交完可兑换），工票和神典石兑换。跨服支持 DailyRoutines 快速跨服（设置里可关，不可用时自动用原生跨服）。计划检查可按已保存的套装估算没切换过的职业属性；宇宙探索使用临时技能后不再卡在制作中；采集到点后不再长时间悬停；自动切职业不再要求套装存灵魂水晶；连续简易制作和换职业不再被制作笔记卡住；Omni 未激活时提示更清楚。",
-    "AssemblyVersion": "0.1.9.0",
+    "Changelog": "新增制作笔记补全（练级页）：没做过的配方从低等级开始补，每 10 个一起买材料；装备当素材的配方会自动选好装备；每批做完和结束时自动丢掉这次买的剩余材料和做出的成品（开始前就有的、套装里的装备不动）。笔记卡片打开就显示进度，运行中有进度条。市场材料买到一半卖光时改成自己制作或采集；不再选住宅区里的 NPC 商人（寻路会失败）；DailyRoutines 跨服没反应时 30 秒后改用原生跨服；采集时不再在远处落地跑过去；制作笔记开着时也能正常切职业。",
+    "AssemblyVersion": "0.1.9.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
@@ -81,6 +81,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1795347125"
+    "LastUpdate": "1795359153"
   }
 ]
