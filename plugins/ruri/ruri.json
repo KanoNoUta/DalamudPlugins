@@ -2,7 +2,7 @@
   "Author": "kano",
   "Name": "琉璃的宝石",
   "InternalName": "ruri",
-  "AssemblyVersion": "0.1.8.5",
+  "AssemblyVersion": "0.1.9.0",
   "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
   "ApplicableVersion": "any",
   "Tags": [
@@ -18,6 +18,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
   "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
-  "Changelog": "修复计划检查在属性足够时仍判失败：计划里先做出来的 HQ 半成品现在会算进后续配方的初始品质，检查时也会把制作时会吃的食物和药酒算进去；记录的各职业属性不再混入当时吃着的食药。检查失败的原因改为中文，并写明按哪些属性和初始品质算的。",
+  "Changelog": "新增「练级」页：生产/采集练级（低等级制作或采集，之后进宇宙探索升级，会解锁技能的职业任务到等级先做，满级后做完其余职业任务，可自动买 NPC 装备）和采集笔记补全（逐条补采，背包快满时自动丢弃本次采到的东西）。新增「票据」页：读取工票和神典石，收藏品路线（制作或采集收藏品、自动上交、交完可兑换），工票和神典石兑换。跨服支持 DailyRoutines 快速跨服（设置里可关，不可用时自动用原生跨服）。计划检查可按已保存的套装估算没切换过的职业属性；宇宙探索使用临时技能后不再卡在制作中；采集到点后不再长时间悬停；自动切职业不再要求套装存灵魂水晶；连续简易制作和换职业不再被制作笔记卡住；Omni 未激活时提示更清楚。",
   "AcceptsFeedback": true
 }
