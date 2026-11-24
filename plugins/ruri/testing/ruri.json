@@ -1,0 +1,23 @@
+{
+  "Author": "kano",
+  "Name": "琉璃的宝石",
+  "InternalName": "ruri",
+  "AssemblyVersion": "0.1.9.2",
+  "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "crafting",
+    "gathering",
+    "planner",
+    "ruri"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
+  "Punchline": "微风如歌 随雨低吟 终将抵达 光之所栖",
+  "Changelog": "标「测试」的功能还没在游戏里完整跑过。新增功能总汇与更新内容页；任务页面（ruri 自己的任务引擎，可搜索、连前置排队做，单人副本交给 MasterPlayer 或 BossMod，测试）；友好部族日常和解锁任务；交易职业任务与交纳；军队筹备、专家筹备；制作、捕鱼、采矿、园艺理符；老主顾；天穹街重建（测试）与云冠群岛；天穹同庆（测试）；古武工具（天钢、辉煌为测试）；按顺序提升宇宙工具；收藏品路线支持捕鱼人；雇员整理与改价；订单缺的材料先从雇员取；精选、分解；传承录自动兑换；无人岛（测试，默认只读）；清理任务带来的新物品（测试，默认关闭）。能飞的地方默认飞行，长距离直飞；城内移动使用以太网；限时采集点等待时先做别的。",
+  "AcceptsFeedback": true
+}
